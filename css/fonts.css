@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Epilogue-regular";
+    src: url("../fonts/Epilogue-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Epilogue-semibold";
+    src: url("../fonts/Epilogue-SemiBold.ttf") format("truetype");
+    font-weight: 600;
+    font-style: normal;
+}
